@@ -8,6 +8,6 @@
   ii.	Phép cộng trừ với các con trỏ ở cùng mảng  
 - Câu 5:
   iv.	Tất cả các phát biểu trên  
-- Câu 6:  
-   
+- Câu 6:
+   i.	void bubble(int [], const int, bool (*) (int, int));
 - Câu 7: ko có đáp án. Đáp án đúng: 1 2 3
