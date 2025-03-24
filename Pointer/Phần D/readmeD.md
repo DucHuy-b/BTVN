@@ -10,4 +10,4 @@
   iv.	Tất cả các phát biểu trên  
 - Câu 6:
    i.	void bubble(int [], const int, bool (*) (int, int));
-- Câu 7: ko có đáp án. Đáp án đúng: 1 2 3
+- Câu 7: iii.	2 2 3
